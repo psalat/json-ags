@@ -1,0 +1,194 @@
+[
+    {
+        "codigo": 10040,
+        "marca": "Fiat",
+        "modelo": "Uno",
+        "tipo": "Parabrisas",
+        "precio": 13622,
+        "stock": 7
+    },
+    {
+        "codigo": 2282,
+        "marca": "Fiat",
+        "modelo": "Uno",
+        "tipo": "Puerta del. Izq.",
+        "precio": 13803,
+        "stock": 12
+    },
+    {
+        "codigo": 2451,
+        "marca": "Fiat",
+        "modelo": "Uno",
+        "tipo": "Puerta del. Der.",
+        "precio": 14127,
+        "stock": 4
+    },
+    {
+        "codigo": 2649,
+        "marca": "Fiat",
+        "modelo": "Uno",
+        "tipo": "Puerta tras. Izq.",
+        "precio": 10288,
+        "stock": 10
+    },
+    {
+        "codigo": 1305,
+        "marca": "Fiat",
+        "modelo": "Uno",
+        "tipo": "Puerta tras. Der.",
+        "precio": 10696,
+        "stock": 15
+    },
+    {
+        "codigo": 2775,
+        "marca": "Fiat",
+        "modelo": "Uno",
+        "tipo": "Luneta",
+        "precio": 11265,
+        "stock": 3
+    },
+    {
+        "codigo": 10042,
+        "marca": "Fiat",
+        "modelo": "Punto",
+        "tipo": "Parabrisas",
+        "precio": 12328,
+        "stock": 4
+    },
+    {
+        "codigo": 2028,
+        "marca": "Fiat",
+        "modelo": "Punto",
+        "tipo": "Puerta del. Izq.",
+        "precio": 12138,
+        "stock": 7
+    },
+    {
+        "codigo": 2225,
+        "marca": "Fiat",
+        "modelo": "Punto",
+        "tipo": "Puerta del. Der.",
+        "precio": 13424,
+        "stock": 2
+    },
+    {
+        "codigo": 2245,
+        "marca": "Fiat",
+        "modelo": "Punto",
+        "tipo": "Puerta tras. Izq.",
+        "precio": 12227,
+        "stock": 13
+    },
+    {
+        "codigo": 1701,
+        "marca": "Fiat",
+        "modelo": "Punto",
+        "tipo": "Puerta tras. Der.",
+        "precio": 13114,
+        "stock": 15
+    },
+    {
+        "codigo": 2607,
+        "marca": "Fiat",
+        "modelo": "Punto",
+        "tipo": "Luneta",
+        "precio": 10799,
+        "stock": 11
+    },
+    {
+        "codigo": 10043,
+        "marca": "Fiat",
+        "modelo": "Cronos",
+        "tipo": "Parabrisas",
+        "precio": 12628,
+        "stock": 5
+    },
+    {
+        "codigo": 1788,
+        "marca": "Fiat",
+        "modelo": "Cronos",
+        "tipo": "Puerta del. Izq.",
+        "precio": 13003,
+        "stock": 11
+    },
+    {
+        "codigo": 1021,
+        "marca": "Fiat",
+        "modelo": "Cronos",
+        "tipo": "Puerta del. Der.",
+        "precio": 14406,
+        "stock": 10
+    },
+    {
+        "codigo": 2068,
+        "marca": "Fiat",
+        "modelo": "Cronos",
+        "tipo": "Puerta tras. Izq.",
+        "precio": 14458,
+        "stock": 2
+    },
+    {
+        "codigo": 2861,
+        "marca": "Fiat",
+        "modelo": "Cronos",
+        "tipo": "Puerta tras. Der.",
+        "precio": 12468,
+        "stock": 6
+    },
+    {
+        "codigo": 1662,
+        "marca": "Fiat",
+        "modelo": "Cronos",
+        "tipo": "Luneta",
+        "precio": 12319,
+        "stock": 13
+    },
+    {
+        "codigo": 10046,
+        "marca": "Fiat",
+        "modelo": "Linea",
+        "tipo": "Parabrisas",
+        "precio": 10394,
+        "stock": 9
+    },
+    {
+        "codigo": 2786,
+        "marca": "Fiat",
+        "modelo": "Linea",
+        "tipo": "Puerta del. Izq.",
+        "precio": 12318,
+        "stock": 1
+    },
+    {
+        "codigo": 1051,
+        "marca": "Fiat",
+        "modelo": "Linea",
+        "tipo": "Puerta del. Der.",
+        "precio": 13496,
+        "stock": 1
+    },
+    {
+        "codigo": 2155,
+        "marca": "Fiat",
+        "modelo": "Linea",
+        "tipo": "Puerta tras. Izq.",
+        "precio": 10049,
+        "stock": 10
+    },
+    {
+        "codigo": 1616,
+        "marca": "Fiat",
+        "modelo": "Linea",
+        "tipo": "Puerta tras. Der.",
+        "precio": 14178,
+        "stock": 0
+    },
+    {
+        "codigo": 1306,
+        "marca": "Fiat",
+        "modelo": "Linea",
+        "tipo": "Luneta",
+        "precio": 12207,
+        "stock": 14
+    }
+]
