@@ -1,0 +1,106 @@
+[
+  {
+        "codigo": 10129,
+        "marca": "Honda",
+        "modelo": "HRV",
+        "tipo": "Parabrisas",
+        "precio": 12040,
+        "stock": 4
+    },
+    {
+        "codigo": 1014,
+        "marca": "Honda",
+        "modelo": "HRV",
+        "tipo": "Puerta del. Izq.",
+        "precio": 11995,
+        "stock": 8
+    },
+    {
+        "codigo": 1694,
+        "marca": "Honda",
+        "modelo": "HRV",
+        "tipo": "Puerta del. Der.",
+        "precio": 11875,
+        "stock": 9
+    },
+    {
+        "codigo": 10131,
+        "marca": "Honda",
+        "modelo": "Accord",
+        "tipo": "Parabrisas",
+        "precio": 13157,
+        "stock": 12
+    },
+    {
+        "codigo": 2122,
+        "marca": "Honda",
+        "modelo": "Accord",
+        "tipo": "Puerta del. Izq.",
+        "precio": 12256,
+        "stock": 13
+    },
+    {
+        "codigo": 1313,
+        "marca": "Honda",
+        "modelo": "Accord",
+        "tipo": "Puerta del. Der.",
+        "precio": 13088,
+        "stock": 9
+    },
+    {
+        "codigo": 10142,
+        "marca": "Honda",
+        "modelo": "Civic",
+        "tipo": "Parabrisas",
+        "precio": 11949,
+        "stock": 6
+    },
+    {
+        "codigo": 2747,
+        "marca": "Honda",
+        "modelo": "Civic",
+        "tipo": "Puerta del. Izq.",
+        "precio": 12284,
+        "stock": 7
+    },
+    {
+        "codigo": 1424,
+        "marca": "Honda",
+        "modelo": "Civic",
+        "tipo": "Puerta del. Der.",
+        "precio": 12199,
+        "stock": 1
+    },
+    {
+        "codigo": 10143,
+        "marca": "Honda",
+        "modelo": "CRV",
+        "tipo": "Parabrisas",
+        "precio": 11362,
+        "stock": 7
+    },
+    {
+        "codigo": 1945,
+        "marca": "Honda",
+        "modelo": "CRV",
+        "tipo": "Puerta del. Izq.",
+        "precio": 11022,
+        "stock": 3
+    },
+    {
+        "codigo": 1250,
+        "marca": "Honda",
+        "modelo": "CRV",
+        "tipo": "Puerta del. Der.",
+        "precio": 12841,
+        "stock": 7
+    },
+    {
+        "codigo": 2123,
+        "marca": "Honda",
+        "modelo": "CRV",
+        "tipo": "Luneta",
+        "precio": 13065,
+        "stock": 6
+    }
+]
