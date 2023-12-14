@@ -1,0 +1,130 @@
+[
+  {
+        "codigo": 10086,
+        "marca": "Renault",
+        "modelo": "Torino",
+        "tipo": "Parabrisas",
+        "precio": 14004,
+        "stock": 0
+    },
+    {
+        "codigo": 2280,
+        "marca": "Renault",
+        "modelo": "Torino",
+        "tipo": "Puerta del. Izq.",
+        "precio": 11179,
+        "stock": 13
+    },
+    {
+        "codigo": 2371,
+        "marca": "Renault",
+        "modelo": "Torino",
+        "tipo": "Puerta del. Der.",
+        "precio": 12487,
+        "stock": 4
+    },
+    {
+        "codigo": 2097,
+        "marca": "Renault",
+        "modelo": "Torino",
+        "tipo": "Luneta",
+        "precio": 11002,
+        "stock": 2
+    },
+    {
+        "codigo": 10100,
+        "marca": "Renault",
+        "modelo": "Laguna",
+        "tipo": "Parabrisas",
+        "precio": 11515,
+        "stock": 13
+    },
+    {
+        "codigo": 1394,
+        "marca": "Renault",
+        "modelo": "Laguna",
+        "tipo": "Puerta del. Izq.",
+        "precio": 10393,
+        "stock": 13
+    },
+    {
+        "codigo": 2617,
+        "marca": "Renault",
+        "modelo": "Laguna",
+        "tipo": "Puerta del. Der.",
+        "precio": 13432,
+        "stock": 2
+    },
+    {
+        "codigo": 1101,
+        "marca": "Renault",
+        "modelo": "Laguna",
+        "tipo": "Luneta",
+        "precio": 13582,
+        "stock": 11
+    },
+    {
+        "codigo": 10103,
+        "marca": "Renault",
+        "modelo": "Twingo",
+        "tipo": "Parabrisas",
+        "precio": 14323,
+        "stock": 3
+    },
+    {
+        "codigo": 2854,
+        "marca": "Renault",
+        "modelo": "Twingo",
+        "tipo": "Puerta del. Izq.",
+        "precio": 14785,
+        "stock": 6
+    },
+    {
+        "codigo": 2498,
+        "marca": "Renault",
+        "modelo": "Twingo",
+        "tipo": "Puerta del. Der.",
+        "precio": 14098,
+        "stock": 2
+    },
+    {
+        "codigo": 2863,
+        "marca": "Renault",
+        "modelo": "Twingo",
+        "tipo": "Luneta",
+        "precio": 14691,
+        "stock": 3
+    },
+    {
+        "codigo": 10104,
+        "marca": "Renault",
+        "modelo": "Koleos",
+        "tipo": "Parabrisas",
+        "precio": 12538,
+        "stock": 2
+    },
+    {
+        "codigo": 1245,
+        "marca": "Renault",
+        "modelo": "Koleos",
+        "tipo": "Puerta del. Izq.",
+        "precio": 13100,
+        "stock": 5
+    },
+    {
+        "codigo": 1473,
+        "marca": "Renault",
+        "modelo": "Koleos",
+        "tipo": "Puerta del. Der.",
+        "precio": 10416,
+        "stock": 2
+    },
+    {
+        "codigo": 2228,
+        "marca": "Renault",
+        "modelo": "Koleos",
+        "tipo": "Luneta",
+        "precio": 14803,
+        "stock": 14
+    }
+]
