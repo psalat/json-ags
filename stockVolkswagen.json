@@ -1,0 +1,98 @@
+[
+  {
+        "codigo": 10112,
+        "marca": "Volkswagen",
+        "modelo": "Vento",
+        "tipo": "Parabrisas",
+        "precio": 13881,
+        "stock": 14
+    },
+    {
+        "codigo": 2275,
+        "marca": "Volkswagen",
+        "modelo": "Vento",
+        "tipo": "Puerta del. Izq.",
+        "precio": 10050,
+        "stock": 0
+    },
+    {
+        "codigo": 2139,
+        "marca": "Volkswagen",
+        "modelo": "Vento",
+        "tipo": "Puerta del. Der.",
+        "precio": 12508,
+        "stock": 11
+    },
+    {
+        "codigo": 10118,
+        "marca": "Volkswagen",
+        "modelo": "Bora",
+        "tipo": "Parabrisas",
+        "precio": 13154,
+        "stock": 8
+    },
+    {
+        "codigo": 2171,
+        "marca": "Volkswagen",
+        "modelo": "Bora",
+        "tipo": "Puerta del. Izq.",
+        "precio": 13870,
+        "stock": 10
+    },
+    {
+        "codigo": 2025,
+        "marca": "Volkswagen",
+        "modelo": "Bora",
+        "tipo": "Puerta del. Der.",
+        "precio": 13594,
+        "stock": 4
+    },
+    {
+        "codigo": 10122,
+        "marca": "Volkswagen",
+        "modelo": "Polo",
+        "tipo": "Parabrisas",
+        "precio": 12323,
+        "stock": 6
+    },
+    {
+        "codigo": 1271,
+        "marca": "Volkswagen",
+        "modelo": "Polo",
+        "tipo": "Puerta del. Izq.",
+        "precio": 13175,
+        "stock": 4
+    },
+    {
+        "codigo": 1376,
+        "marca": "Volkswagen",
+        "modelo": "Polo",
+        "tipo": "Puerta del. Der.",
+        "precio": 10525,
+        "stock": 7
+    },
+    {
+        "codigo": 10123,
+        "marca": "Volkswagen",
+        "modelo": "Vertis",
+        "tipo": "Parabrisas",
+        "precio": 14080,
+        "stock": 13
+    },
+    {
+        "codigo": 1631,
+        "marca": "Volkswagen",
+        "modelo": "Vertis",
+        "tipo": "Puerta del. Izq.",
+        "precio": 10670,
+        "stock": 6
+    },
+    {
+        "codigo": 1648,
+        "marca": "Volkswagen",
+        "modelo": "Vertis",
+        "tipo": "Puerta del. Der.",
+        "precio": 10785,
+        "stock": 8
+    }
+]
