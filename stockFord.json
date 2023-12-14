@@ -1,0 +1,130 @@
+[
+  {
+        "codigo": 10147,
+        "marca": "Ford",
+        "modelo": "Focus",
+        "tipo": "Parabrisas",
+        "precio": 12912,
+        "stock": 1
+    },
+    {
+        "codigo": 2153,
+        "marca": "Ford",
+        "modelo": "Focus",
+        "tipo": "Puerta del. Izq.",
+        "precio": 11127,
+        "stock": 7
+    },
+    {
+        "codigo": 2111,
+        "marca": "Ford",
+        "modelo": "Focus",
+        "tipo": "Puerta del. Der.",
+        "precio": 14215,
+        "stock": 15
+    },
+    {
+        "codigo": 2069,
+        "marca": "Ford",
+        "modelo": "Focus",
+        "tipo": "Luneta",
+        "precio": 14901,
+        "stock": 3
+    },
+    {
+        "codigo": 10153,
+        "marca": "Ford",
+        "modelo": "Mondeo",
+        "tipo": "Parabrisas",
+        "precio": 11259,
+        "stock": 2
+    },
+    {
+        "codigo": 2573,
+        "marca": "Ford",
+        "modelo": "Mondeo",
+        "tipo": "Puerta del. Izq.",
+        "precio": 13624,
+        "stock": 7
+    },
+    {
+        "codigo": 2853,
+        "marca": "Ford",
+        "modelo": "Mondeo",
+        "tipo": "Puerta del. Der.",
+        "precio": 13816,
+        "stock": 2
+    },
+    {
+        "codigo": 1474,
+        "marca": "Ford",
+        "modelo": "Mondeo",
+        "tipo": "Luneta",
+        "precio": 10074,
+        "stock": 14
+    },
+    {
+        "codigo": 10154,
+        "marca": "Ford",
+        "modelo": "Ka",
+        "tipo": "Parabrisas",
+        "precio": 10949,
+        "stock": 7
+    },
+    {
+        "codigo": 1765,
+        "marca": "Ford",
+        "modelo": "Ka",
+        "tipo": "Puerta del. Izq.",
+        "precio": 13105,
+        "stock": 7
+    },
+    {
+        "codigo": 1266,
+        "marca": "Ford",
+        "modelo": "Ka",
+        "tipo": "Puerta del. Der.",
+        "precio": 11377,
+        "stock": 6
+    },
+    {
+        "codigo": 2154,
+        "marca": "Ford",
+        "modelo": "Ka",
+        "tipo": "Luneta",
+        "precio": 12709,
+        "stock": 3
+    },
+    {
+        "codigo": 10156,
+        "marca": "Ford",
+        "modelo": "F150",
+        "tipo": "Parabrisas",
+        "precio": 12767,
+        "stock": 11
+    },
+    {
+        "codigo": 1913,
+        "marca": "Ford",
+        "modelo": "F150",
+        "tipo": "Puerta del. Izq.",
+        "precio": 11133,
+        "stock": 11
+    },
+    {
+        "codigo": 1909,
+        "marca": "Ford",
+        "modelo": "F150",
+        "tipo": "Puerta del. Der.",
+        "precio": 10329,
+        "stock": 11
+    },
+    {
+        "codigo": 2986,
+        "marca": "Ford",
+        "modelo": "F150",
+        "tipo": "Luneta",
+        "precio": 11843,
+        "stock": 7
+    }
+]
