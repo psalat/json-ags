@@ -1,0 +1,130 @@
+ [
+    {
+        "codigo": 10050,
+        "marca": "Chevrolet",
+        "modelo": "Tracker",
+        "tipo": "Parabrisas",
+        "precio": 11147,
+        "stock": 9
+    },
+    {
+        "codigo": 1019,
+        "marca": "Chevrolet",
+        "modelo": "Tracker",
+        "tipo": "Puerta del. Izq.",
+        "precio": 12088,
+        "stock": 14
+    },
+    {
+        "codigo": 2958,
+        "marca": "Chevrolet",
+        "modelo": "Tracker",
+        "tipo": "Puerta del. Der.",
+        "precio": 12142,
+        "stock": 12
+    },
+    {
+        "codigo": 2700,
+        "marca": "Chevrolet",
+        "modelo": "Tracker",
+        "tipo": "Luneta",
+        "precio": 14128,
+        "stock": 14
+    },
+    {
+        "codigo": 10053,
+        "marca": "Chevrolet",
+        "modelo": "S10",
+        "tipo": "Parabrisas",
+        "precio": 12004,
+        "stock": 8
+    },
+    {
+        "codigo": 1604,
+        "marca": "Chevrolet",
+        "modelo": "S10",
+        "tipo": "Puerta del. Izq.",
+        "precio": 12020,
+        "stock": 3
+    },
+    {
+        "codigo": 1625,
+        "marca": "Chevrolet",
+        "modelo": "S10",
+        "tipo": "Puerta del. Der.",
+        "precio": 10884,
+        "stock": 6
+    },
+    {
+        "codigo": 1378,
+        "marca": "Chevrolet",
+        "modelo": "S10",
+        "tipo": "Luneta",
+        "precio": 10435,
+        "stock": 9
+    },
+    {
+        "codigo": 10056,
+        "marca": "Chevrolet",
+        "modelo": "Silverado",
+        "tipo": "Parabrisas",
+        "precio": 12556,
+        "stock": 6
+    },
+    {
+        "codigo": 1452,
+        "marca": "Chevrolet",
+        "modelo": "Silverado",
+        "tipo": "Puerta del. Izq.",
+        "precio": 12058,
+        "stock": 8
+    },
+    {
+        "codigo": 1277,
+        "marca": "Chevrolet",
+        "modelo": "Silverado",
+        "tipo": "Puerta del. Der.",
+        "precio": 12838,
+        "stock": 5
+    },
+    {
+        "codigo": 2344,
+        "marca": "Chevrolet",
+        "modelo": "Silverado",
+        "tipo": "Luneta",
+        "precio": 10032,
+        "stock": 13
+    },
+    {
+        "codigo": 10076,
+        "marca": "Chevrolet",
+        "modelo": "Cruze",
+        "tipo": "Parabrisas",
+        "precio": 12292,
+        "stock": 10
+    },
+    {
+        "codigo": 1614,
+        "marca": "Chevrolet",
+        "modelo": "Cruze",
+        "tipo": "Puerta del. Izq.",
+        "precio": 14448,
+        "stock": 13
+    },
+    {
+        "codigo": 2637,
+        "marca": "Chevrolet",
+        "modelo": "Cruze",
+        "tipo": "Puerta del. Der.",
+        "precio": 14217,
+        "stock": 11
+    },
+    {
+        "codigo": 2513,
+        "marca": "Chevrolet",
+        "modelo": "Cruze",
+        "tipo": "Luneta",
+        "precio": 14387,
+        "stock": 8
+    }
+]
